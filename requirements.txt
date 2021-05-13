@@ -9,6 +9,7 @@ decorator==5.0.7
 defusedxml==0.7.1
 entrypoints==0.3
 ipykernel==5.5.3
+ipympl==0.7.0
 ipynb==0.5.1
 ipython==7.22.0
 ipython-genutils==0.2.0
