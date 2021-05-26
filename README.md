@@ -3,8 +3,8 @@
 The project implements various models to analyse work hardening behaviour of
 light aluminium alloys. Apart from the work hardening, we have also implemented
 the model for [YLD200][yld2000] which is useful in predicting yield criterion.
-The eventual goal of this project to reach the formability limit diagram which
-as it has a high relevance in industrial applications.
+The eventual goal of this project is to plot formability limit diagram which
+has a high relevance in industry.
 
 ## Try out the project yourself
 
