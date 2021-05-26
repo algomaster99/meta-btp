@@ -60,5 +60,24 @@ project. It will store the necessary parameters and graphs obtained while
 running the script. Alternate way to save plots obtained in the script is to
 right-click on them and save.
 
+## FAQ
+
+**Q. Where to enter path to datasets?**
+
+A. Read [this section][dataset].
+
+**Q. Do I need to have crystal plasticity data to work with YLD2000.ipynb?**
+
+A. No, it is optional. The script is self-sufficient. You can comment the lines
+   related to it (they have been marked in the notebook) and the script would
+   run without it.
+
+**Q. How to change resolution of graphs and figures?**
+
+A. The script uses [fig.set_dpi][figure] to set the DPI of the figures.
+   Alternatively, you can also pass `dpi` argument to `fig.savefig`.
+
 [yld2000]: https://www.sciencedirect.com/science/article/abs/pii/S0749641902000190
 [virtualenv]: https://pypi.org/project/virtualenv/
+[figure]: https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.figure.html
+[dataset]: #feed-script-with-dataset
