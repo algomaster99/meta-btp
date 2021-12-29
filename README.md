@@ -60,6 +60,12 @@ project. It will store the necessary parameters and graphs obtained while
 running the script. Alternate way to save plots obtained in the script is to
 right-click on them and save.
 
+## Submission
+
+The [report](submission/BTP%20Report.pdf) and
+[presentation](submission/BTP%20PPT.pptx) of this project is also hosted
+online. Click on the respective links to have a look at them.
+
 ## FAQ
 
 **Q. Where to enter path to datasets?**
